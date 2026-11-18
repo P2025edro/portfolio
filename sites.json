@@ -1,0 +1,10 @@
+[
+  { "file": "silva-solutions", "url": "https://www.silvasolutions.ie" },
+  { "file": "dishview",        "url": "https://dishview-menu.vercel.app" },
+  { "file": "camden",          "url": "https://www.camdenbarber.ie" },
+  { "file": "urban-cuts",      "url": "https://urban-cuts-website.vercel.app" },
+  { "file": "larica",          "url": "https://larica-website.vercel.app" },
+  { "file": "hadi",            "url": "https://hadi-halal-foods.vercel.app" },
+  { "file": "portobello",      "url": "https://portobello-community-hall.vercel.app" },
+  { "file": "akroun",          "url": "https://akroun.vercel.app" }
+]
