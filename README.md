@@ -118,6 +118,6 @@ Streetwear brand website with collections, lookbook imagery and brand film.
 
 **Have a project in mind? → [silvasolutions.ie/contact](https://www.silvasolutions.ie/contact)**
 
-<sub>Source code for client projects stays private. Screenshots and links are taken from the public live sites.<br><!--updated-->Screenshots updated automatically · last refresh 22 November 2026<!--/updated--></sub>
+<sub>Source code for client projects stays private. Screenshots and links are taken from the public live sites.<br><!--updated-->Screenshots updated automatically · last refresh 23 November 2026<!--/updated--></sub>
 
 </div>
